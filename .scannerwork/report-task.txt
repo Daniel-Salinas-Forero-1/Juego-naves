@@ -1,0 +1,6 @@
+projectKey=juego_clase_disparos
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=juego_clase_disparos
+ceTaskId=AYP32beEAbdj4ZlQYpCJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYP32beEAbdj4ZlQYpCJ
